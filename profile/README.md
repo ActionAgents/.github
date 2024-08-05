@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-<img width="553" alt="image" src="https://github.com/ActionAgents/.github/assets" href="https://github.com/orgs/ActionAgents/invitation">
+<img width="553" alt="image" src="https://github.com/user-attachments/assets/973a4000-a356-428b-a330-bc183d20ab67" href="https://github.com/orgs/ActionAgents/invitation">
 
 ## Ready to Get Started? 👋
 
